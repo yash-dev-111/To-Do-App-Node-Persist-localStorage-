@@ -1,0 +1,14 @@
+li{
+    font-weight: bolder;
+    color: rgb(60, 22, 22);
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:1rem;
+    max-width: 40rem;
+    border-radius: 5px;
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    background-color: rgb(252, 207, 207);
+}

@@ -1,0 +1,72 @@
+h1{
+    color: white;
+    text-align: center;
+    height: 120px;
+}
+
+*{
+    background-color: rgb(255, 38, 74);
+    
+}
+
+body{
+    width: 50%;
+    margin: auto;
+} 
+  
+  
+  
+
+.inputbox{
+    display: flex;
+    gap: 20px;
+    
+  }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgb(24, 2, 2);
+    opacity: 1; 
+  }
+
+
+button{
+    width:10rem;
+    border:1px solid black;
+    background-color: rgb(42, 118, 4);
+    color:aliceblue;
+    font-size: 1.2rem;
+}
+
+.b1{
+    background-color: gray !important;
+    width:15rem;
+}
+
+button:hover{
+    color: rgb(21, 17, 17);
+   }
+
+input{
+    width: 100%;
+    padding: 10px;
+    font-size: 1.5rem;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid black;
+    color: #4d4747;
+   } 
+
+   li{
+
+    font-size: 1.7rem;
+    width: 100%;
+    background-color:#16453e;
+    color: white;
+    text-align: center;
+    padding: 10px 50px 15px 10px;
+    margin-top: 10px;
+    user-select: none;
+    border-radius: 2px 5px;
+ 
+} 
+
